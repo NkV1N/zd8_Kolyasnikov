@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="films">
+        <item name="film1" >Движение вверх</item>
+        <item name="film2" >Остров проклятых</item>
+        <item name="film3" >Лулу и Бригс</item>
+        <item name="film4" >Достать ножи</item>
+        <item name="film5" >Отель в Белграде</item>
+    </array>
+
+</resources>
